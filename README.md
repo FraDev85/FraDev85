@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Html, Css, Javascript, BootStrap**
+- 💬 Ask me about **Html, Css, Javascript**
 
 - 📫 How to reach me **comunalefrancesco@gmail.com**
 
