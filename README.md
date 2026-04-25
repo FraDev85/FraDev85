@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap,docker,git,linux,mysql,postgres,java,bash" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind,bootstrap,docker,git,linux,mysql,postgres,bash" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FraDev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=TUO_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=FraDev&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
